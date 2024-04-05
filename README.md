@@ -5,7 +5,7 @@
 # Codex Notes:
 I'v forked Lsp Saga to use it in my machine(Debian 11) and my NeoVim is not nightly(leatest versioan),
 thus many super features of lspsaga won't work on older nvim versions, and there are messages displayed,
-so in this for I'm trying to make lspsaga quite as possible and enjoying  whit its reset features that
+so in this fork I'm trying to make lspsaga quite as possible and enjoying  whit its reset features that
 work well with older nvim version.
 That's it, (>^.^<) vim
 
